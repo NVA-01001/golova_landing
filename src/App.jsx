@@ -99,7 +99,7 @@ function App() {
         </p>
         <div className="text-blue-600 font-medium">Узнать больше →</div>
       </div>
-
+    
       {/* Карточка 4 */}
       <div className="flex-shrink-0 sm:flex-shrink sm:w-auto w-[280px] bg-white rounded-2xl shadow-lg border border-gray-100 p-6 hover:shadow-xl transition duration-300">
         <div className="w-12 h-12 bg-yellow-100 rounded-xl flex items-center justify-center mb-4">
